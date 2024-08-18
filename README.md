@@ -1,5 +1,7 @@
 This can click insain speeds here is some photos don't crash your pc
 
+But with a catch I don't want people cheating games so this isn't a convenient script I made it so you have to close it and run it again if you want to start and stop
+
 ![image2](https://github.com/user-attachments/assets/59198afd-12da-4977-84a6-dcad11c25980)
 ![image1](https://github.com/user-attachments/assets/4712cea8-0497-4677-8ca6-6c701b2f6131)
 
